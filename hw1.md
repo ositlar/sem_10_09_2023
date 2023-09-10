@@ -6,3 +6,5 @@ git log - посмотреть логи
 Ключ -am позволяет делать коммит без git add
 
 vetka1 changes
+
+vetka2 changes
